@@ -1,0 +1,285 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+   .submit-score-box h3 {
+      font-size: 50px;
+   }
+   .submit-checkbox, .submit-score-links {
+      padding-left: 42px;
+   }
+   .submit-checkbox, .submit-score-links {
+      padding-top: 10px;
+   }
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+   .submit-score-box {
+      width: 90%;
+      padding-top: 0;
+   }
+   .submit-score-box h4 {
+      font-size: 20px;
+   }
+   .rate-cash .submit-score-box h3, .rate-cash .submit-score-box h4, .offers-page .submit-score-box h4 {
+      font-size: 30px;
+      margin-bottom: 0;
+   }
+   .submit-score-box h3 {
+      font-size: 28px;
+      margin-bottom: 15px;
+   }
+   .submit-score-box form input {
+      height: 70px;
+      width: 90%;
+      font-size: 25px;
+      padding: 0 20px;
+      margin-bottom: 15px;
+   }
+   .submit-score-box form input::placeholder {
+      font-size: 25px;
+   }
+   .submit-checkbox label p {
+      font-size: 25px;
+   }
+   .submit-checkbox label span i {
+      font-size: 20px;
+   }
+   .submit-checkbox label span {
+      height: 40px;
+      width: 40px;
+      margin-right: 20px;
+      line-height: 37px;
+   }
+   .submit-score-links a {
+      font-size: 25px;
+      margin-right: 20px;
+      margin-bottom: 30px;
+   }
+   .submit-checkbox, .submit-score-links {
+      padding-left: 35px;
+   }
+   .submit-score {
+      width: 80%;
+      margin: auto;
+      top: 20%;
+   }
+   .bordered-btn {
+      font-size: 28px;
+      width: 90%;
+      height: 90px;
+      margin-bottom: 0px;
+   }
+   .score-box-bg img {
+      height: 690px;
+   }
+   .social-page .score-box-bg img {
+      height: auto;
+   }
+   .social-page .submit-score {
+      top: 26%;
+   }
+   .cash-dash-bg img {
+      height: 100vh;
+   }
+   .cash-dash-bg {
+      text-align: center;
+   }
+   .submit-score-box p {
+      font-size: 25px;
+      margin-bottom: 10px;
+   }
+   .cash-dash-from {
+      padding: 30px 0;
+   }
+   .offers-page .score-box-bg img {
+      width: 100%;
+      height: 450px;
+   }
+   .offers-page .bordered-btn,
+   .rate-cash .bordered-btn {
+      height: 120px;
+   }
+   .offers-page .submit-score-box form input {
+      height: 60px;
+   }
+   .cash-dash-from-wrap {
+      padding: 0;
+      height: 100vh;
+      overflow: hidden;
+   }
+   .rate-cash .submit-checkbox {
+      margin-bottom: 3px;
+   }
+   .submit-score-box {
+      top: 50%;
+   }
+   .offers-page .submit-score-box {
+      top: 40%;
+   }
+   
+   
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+   .submit-score-box h4 {
+      font-size: 13px;
+      margin-bottom: 3px;
+   }
+   .submit-score-box h3 {
+      font-size: 20px;
+      margin-bottom: 13px;
+   }
+   .offers-page .submit-score-box {
+      top: 40%;
+   }
+   .submit-score-box {
+      width: auto;
+      padding-top: 0;
+      padding-left: 5px;
+      padding-right: 5px;
+      top: 50%;
+   }
+   .cash-dash-from .container {
+      padding: 0;
+   }
+   .submit-score {
+      width: 90%;
+      margin: auto;
+      top: 25%;
+   }
+   .submit-score-box form input {
+      height: 40px;
+      width: 100%;
+      font-size: 14px;
+      padding: 0 15px;
+      margin-bottom: 10px;
+   }
+   .submit-score-box form input::placeholder {
+      font-size: 14px;
+   }
+   .boohoo-img img {
+      max-width: 50%;
+   }
+   .cash-dash-form .logo {
+      top: 13%;
+   }
+   .score-box-bg img {
+      height: auto;
+      width: 100%;
+   }
+   .cash-dash-bg img {
+      height: 650px;
+   }
+   .submit-checkbox, .submit-score-links {
+      padding-left: 0;
+   }
+   .submit-checkbox label p {
+      font-size: 12px;
+   }
+   .submit-checkbox label span {
+      height: 25px;
+      width: 25px;
+      border: 1px solid #fff;
+      margin-right: 10px;
+      line-height: 22px;
+   }
+   .submit-checkbox label span i {
+      font-size: 13px;
+   }
+   .submit-score-links {
+      text-align: left;
+      margin-bottom: 5px;
+      margin-top: 5px;
+   }
+   .submit-score-links a {
+      font-size: 12px;
+      margin: 0 5px;
+   }
+   .submit-score-links a::after {
+      height: 1px;
+   }
+   .bordered-btn {
+      font-size: 14px;
+      width: 230px;
+      height: 60px;
+      margin-bottom: 0px;
+   }
+   .bordered-btn .btn-shape {
+      width: 90%;
+      right: 0;
+      height: 60px;
+      font-size: 16px;
+      margin: auto;
+   }
+   .cash-dash-from {
+      padding: 5px 0;
+   }
+   .submit-score-box p {
+      font-size: 22px;
+      margin-bottom: 20px;
+   }
+   .rate-cash .submit-score-box h3, .rate-cash .submit-score-box h4 {
+      font-size: 22px;
+      margin-bottom: 5px;
+   }
+   .offers-page .submit-score-box h4 {
+      font-size: 22px;
+   }
+   .submit-score-box p {
+      font-size: 14px;
+      margin-bottom: 30px;
+      padding: 0 5px;
+   }
+   .rate-cash .submit-score-box p {
+      margin-bottom: 0px;
+   }
+   .rate-cash .score-box-bg img {
+      height: auto;
+      width: auto;
+   }
+   .rate-cash .submit-checkbox {
+      margin-bottom: 10px;
+   }
+   .cash-dash-bg img {
+      height: 100vh;
+      width: auto;
+   }
+   .cash-dash-from-wrap {
+      padding: 0;
+      height: 100vh;
+      overflow: hidden;
+   }
+   .submit-score-box form {
+      padding: 0 40px;
+   }
+   .submit-score-box{
+      margin-bottom: 10px;
+   }
+   .offers-page .submit-score-box form input {
+      height: 40px;
+   }
+   .rate-cash-3 .submit-score-box h4 {
+      font-size: 14px;
+   }
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
